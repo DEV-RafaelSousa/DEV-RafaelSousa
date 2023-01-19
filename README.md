@@ -19,3 +19,9 @@ Idiomas:
 - Inglês Avançado
 - Espanhol Avançado 
 - Japonês básico.
+
+Soft Skills:
+- Bastante criativo
+- Facilidade para solucionar problemas na área 
+- Extremamente comunicativo
+- Muita facilidade para trabalho em equipe
